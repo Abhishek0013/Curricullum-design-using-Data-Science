@@ -1,0 +1,359 @@
+Skills,Umbrella_Term
+artifical intelligence,ai
+\bai\b,ai
+intelligent systems,ai
+azure,ai: platform-Azure
+google ai,ai: platform-google ai platform
+infosys nia,ai: platform-infosys nia
+premonition,ai: platform-premonition
+watson ai,ai: platform-watson
+watson,ai: platform-watson
+wipro holmes,ai: platform-wipro holmes
+rainbird,ai:platform-rainbird
+chatbot,ai-chatbots
+chatterbot,ai-chatbots
+ethics of ai,ai-ethics
+ethics of artificial intelligence,ai-ethics
+graph theory,ai-knowledge graphs
+big data,big data
+parallel computing,big data
+bigquery,big data: platform-bigquery
+cloudera,big data: platform-cloudera
+hadoop,big data: tool-hadoop
+hive,big data: tool-hive
+spark,big data: tool-spark
+map-reduce,big data-mapreduce
+mapreduce,big data-mapreduce
+health informatics,bioinformatics
+bioconductor,bioinformatics
+bioinformatics,bioinformatics
+bioinformatics algorithms,bioinformatics
+biological neuron model,bioinformatics
+biostatistics,bioinformatics
+samtools,bioinformatics: tool-SAMtools
+business analysis,business analytics
+business analytics,business analytics
+business intelligence,business analytics
+data-?informed decision-?making,business analytics
+ibm cognos analytics,business analytics: tool-ibm cognos
+cloud,cloud computing
+cloud computing,cloud computing
+cloud databases,cloud computing
+cloud storage,cloud computing
+command-?line,command-line interface
+computer vision,computer vision
+opencv,computer vision: tool-opencv
+analytics,data analytics
+cross-?sectional analysis,data analytics
+data analysis,data analytics
+analyzing data,data analytics
+knime,data analytics: platform-knime
+teradata,data analytics: platform-teradata
+customer analytics,data analytics-customer analytics
+financial analysis,data analytics-finance
+marketing analytics,data analytics-marketing
+predictive analytics,data analytics-predictive analytics
+predictive modelling,data analytics-predictive analytics
+data reporting,data analytics-reporting
+describing data,data analytics-reporting
+social network analysis,data analytics-social networks
+preprocessor,data cleaning
+data cleansing ,data cleaning 
+cleaning ,data cleaning 
+wrangling,data cleaning 
+pre-?process,data cleaning 
+data collection,data cleaning 
+pre-?processing,data cleaning 
+data wrangling,data cleaning 
+survey design,data collection
+experiment design,data collection
+experimental design,data collection
+exploratory data analysis,data exploration
+data mining,data mining
+data extraction,data mining
+data mining,data mining
+data mining algorithms,data mining
+data quality,data mining
+social media mining,data mining
+mining,data mining
+scrap\w*,data mining
+text mining,data mining
+web scraping,data mining
+sequential pattern mining,data mining
+privacy,data privacy
+privacy preservation,data privacy
+graphics,data visualisation
+graphs,data visualisation
+visualization (computer graphics),data visualisation
+graphing data,data visualisation
+dashboard,data visualisation
+dataviz,data visualization
+charts,data visualization
+graphs,data visualization
+visualisation,data visualization
+data visualization,data visualization
+data visualization software,data visualization
+log plot,data visualization
+motion chart,data visualization
+database,database
+data management,database
+data modeling,database
+data architecture,database-architecture
+atomicity,database-atomicity
+database (dbms),database-dbms
+transformation and loading,database-ETL
+data manipulation,database-ETL
+graph database,database-graph
+query string,database-query
+rdms,database-rdbms
+relational database management system,database-rdbms
+relational algebra,database-relational algebra
+sas language,database-sas language
+\bsas\b,database-sas language
+sap hana,database-sas language
+\bsql\b,database-sql
+data warehouse,database-warehousing
+data warehousing,database-warehousing
+document warehouse,database-warehousing
+\bdfs\b,distributed file systems
+distributed file system,distributed file systems
+deep learning,dl
+keras,dl:tool-keras
+torchaudio,dl:tool-pytorch
+torchvision,dl:tool-pytorch
+pytorch,dl:tool-pytorch
+tensorflow,dl:tool-tensorflow
+attention models,dl-attention models
+backpropagation,dl-backpropagation
+backtesting,dl-backpropagation
+bert models,dl-bert
+cnn,dl-cnn
+convolutional neural network,dl-cnn
+cyclegans,dl-cyclegans
+dcgans,dl-dcgans
+bias in gans,dl-gans
+\bgans\b,dl-gans
+\bgan\b,dl-gans
+components of gans,dl-gans
+gan evaluation,dl-gans
+gans alternatives,dl-gans
+lstm,dl-lstm
+artificial neural network,dl-neural network  
+neural network,dl-neural network  
+probabilistic neural network,dl-probabilistic neural network
+\brnn\b,dl-rnn
+recurrent neural network,dl-rnn
+rnns,dl-rnn
+siamese networks,dl-siamese networks
+parts-of-speech tagging,dl-speech recognition
+stylegans,dl-stylegans
+wgans,dl-wgans
+econometrics,econometrics
+feature engineering,feature engineering
+feature extraction,feature engineering
+dimensionality reduction,feature ennginneering 
+risk assessment,finance-risk
+risk management,finance-risk
+genome,genomics
+genomics,genomics
+gis,gis
+geographic information system,gis
+information theory,information theory
+iot,internet of things
+internet of things,internet of things
+ipython,jupyter notebook
+linear algebra,linear algebra
+crisis management,management skills
+lean six sigma,management skills
+manage\w*,management skills
+team building,management skills
+team management,management skills
+digital marketing,marketing
+digital media,marketing
+marketing,marketing
+marketing performance,marketing
+minitab,minitab
+advanced machine learning,ml
+advanced \bml\b,ml
+general linear model,ml
+inclusive ml,ml
+machine learning,ml
+\bml\b,ml
+machine learning concepts,ml
+machine learning applied to finance,ml
+machine translation,ml
+machine learning strategy and leadership,ml
+airflow,ml: tool-airflow
+amazon sagemaker,ml: tool-amazon sagemaker
+belief propagation,ml-belief propagation
+binary classification,ml-classification
+classification algorithms,ml-classification
+data clustering algorithms,ml-clustering
+cluster analysis,ml-clustering
+clustering,ml-clustering
+decision-?tree,ml-decision tree
+decision tree,ml-decision tree
+ensemble learning,ml-ensemble methods
+ensemble,ml-ensemble methods
+fac(\w)* recognition,ml-face recognition
+facial recognition system,ml-face recognition
+generative model,ml-generative models
+hierarchical clustering,ml-hierarchical
+hyperparameter optimization,ml-hyperparameter tuninng
+hyperparameter,ml-hyperparameter tuninng
+image analysis,ml-image processinng
+image processing,ml-image processinng
+image process(\w)*,ml-image processinng
+image segmentation,ml-image segmentation
+image-to-image translation,ml-image-to-image translation
+isolation  forest,ml-isolation forest
+k-?d tree,ml-kd tree
+k-?means clustering,ml-k-means
+k-?means,ml-k-means
+lasso,ml-lasso regression
+linear regression,ml-linear regression
+locality-sensitive hashing,ml-locality-sensitive hashing
+logistic regression,ml-logistic regression
+markov random field,ml-markov random field
+machine learning model evaluation and optimization,ml-model development
+machine learning modeling,ml-model development
+model selection,ml-model development
+oversampling,ml-model development
+multi-?class,ml-multi-class classification
+multi-?class classification,ml-multi-class classification
+eigenvalues and eigenvectors,ml-pca
+eigenvalue,ml-pca
+eigenvector,ml-pca
+pipeline,ml-pipeline
+build input data pipeline,ml-pipeline
+pix2pix,ml-pix2pix
+predictive models,ml-predictive modelling
+random forest,ml-random forest
+recommender systems,ml-recommender systems
+regression analysis,ml-regression
+ridge regression,ml-ridge regression
+ridge,ml-ridge regression
+unsupervised learning,ml-unsupervised learning
+language industry,nlp
+named-entity recognition,nlp
+natural language generation,nlp
+\bnlp\b,nlp
+natural language processing,nlp
+neural machine translation,nlp
+text analysis,nlp
+natural language processing,nlp
+natural language entity extraction,nlp
+nlkt,nlp: tool-nltk
+natural language toolkit ,nlp: tool-nltk
+spacy,nlp:tool-spacy
+bag of words,nlp-bag of words
+n-?gram language models,nlp-n-gram model
+n-?gram,nlp-n-gram model
+regex,nlp-regular expression
+regular expression,nlp-regular expression
+sentiment analysis,nlp-sentiment analysis
+sentiment with neural nets,nlp-sentiment analysis
+tf-idf,nlp-tf-idf
+term frequency,nlp-tf-idf
+term frequency inverse document frequency,nlp-tf-idf
+tokenization,nlp-tokenization
+vector space models,nlp-vector space models
+word embeddings,nlp-word embeddinngs
+mathematical optimization,optimization
+\bpca\b,principal component analysis
+\bpca\b,principal component analysis
+principal component analysis,principal component analysis
+prpl,probabilistic programming language
+probabilistic programming language,probabilistic programming language
+process mining,process analytics
+process modeling,process analytics
+process optimization,process analytics
+computer programming,programming
+debugging,programming
+logic programming,programming
+coding,programming
+\bapi\b,programming-api
+application programming interface,programming-api
+functional programming,programming-functional
+lookup table,programming-lookup table
+oop,programming-oop
+object-?oriented programming,programming-oop
+virtualization,programming-virtualization
+project management,project management
+python,python
+python programming,python
+pandas,python - pandas
+numpy,python -numpy
+biopython,python-biopython
+matplotlib,python-matplotlib
+grouped data,python-pandas
+pivot table,python-pandas
+plotly,python-plotly
+seaborn,python-seaborn
+\br\b,r programming
+\br\b,r programming
+rstudio,r programming-rstudio
+ggplot,r-ggplot
+reinforcement learning,rl
+scala programming,scala
+scikit-learn,scikit-learn
+simulation,simulation
+splunk,splunk
+microsoft excel,spreadsheets
+spreadsheet,spreadsheets
+critical value,statistics
+general statistics,statistics
+likelihood function,statistics
+statistical analysis,statistics
+statistical data,statistics
+statistical methods,statistics
+statistics,statistics
+medical statistics,statistics
+uncertainty analysis,statistics
+multivariate analysis,statistics
+multivariate statistics,statistics
+anova,statistics-analysis of variance
+analysis of variance,statistics-analysis of variance
+variational bayesian methods,statistics-bayesian
+bayesian statistics,statistics-bayesian
+bayes theorem,statistics-bayesian
+bayesian network,statistics-bayesian
+bayesian optimization,statistics-bayesian
+causal inference,statistics-causality
+causality,statistics-causality
+chi-?2,statistics-chi-squared distribution
+chi-?squared distribution,statistics-chi-squared distribution
+confidence interval,statistics-confidence interval
+basic descriptive statistics,statistics-descriptive
+summary statistics,statistics-descriptive
+distribution,statistics-distributions
+gaussian process,statistics-gausian distribution
+gaussian,statistics-gausian distribution
+\ba/b\b,statistics-hypothesis testing
+a/b testing,statistics-hypothesis testing
+p-value,statistics-hypothesis testing
+statistical hypothesis testing,statistics-hypothesis testing
+treatment effect estimation,statistics-hypothesis testing
+statistical inference,statistics-inference
+statistical inferences,statistics-inference
+interaction (statistics)  ,statistics-interaction
+interactive visualization,statistics-interaction
+interactivity,statistics-interaction
+statistical classification,statistics-models
+statistical model,statistics-models
+monte carlo simulation,statistics-monte carlo methods
+gibbs sampling,statistics-monte carlo methods
+normal distribution,statistics-normal distribution
+poisson distribution,statistics-poison distribution
+probability,statistics-probability
+conditional probability,statistics-probability
+statistical regression,statistics-regression
+kafka,stream analytics: tool-kafka
+supervised learning,supervised learning
+time series analysis,time series analysis
+time series,time series analysis
+multivariate time series analysis,time series analysis
+time series,time series model
+time-to-event modeling,time series model
+power bi,visualisation: tool-power bi
+tableau,visualisation: tool-tableau
